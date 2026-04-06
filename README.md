@@ -7,28 +7,11 @@
 
 ## Translations:
 
-* [English](README.md)
-* [German](translations/README-de.md)
-* [Español](translations/README-es.md)
-* [Français](translations/README-fr.md)
-* [Português do Brasil](translations/README-pt_BR.md)
-* [中文版](translations/README-cn.md)
-* [日本語](translations/README-ja.md)
-* [한국어](translations/README-ko.md)
-* [Turkish](translations/README-tr.md)
-* [Greek](translations/README-gr.md)
-* [Magyar](translations/README-hu.md)
-* [Polish](translations/README-pl.md)
-* [Русский](translations/README-ru.md)
-* [Tiếng Việt](translations/README-vn.md)
-* [فارسی](translations/README-fa.md)
-* [עברית](translations/README-he.md)
-
 
 ## What is Regular Expression?
 
 <p>
-    <a href="https://gum.co/learn-regex">
+    <a href="[def]">
         <img src="https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="Download PDF">
     </a>
 </p>
@@ -588,7 +571,7 @@ possible. We can use `?` to match in a lazy way, which means the match should be
 "/(.*?at)/" => <a href="#learn-regex"><strong>The fat</strong></a> cat sat on the mat. </pre>
 
 
-[Test the regular expression](https://regex101.com/r/AyAdgJ/2)
+[Test the regular expression](https://regex101.com/r/reddit.com)
 
 
 ## Contribution
@@ -596,8 +579,10 @@ possible. We can use `?` to match in a lazy way, which means the match should be
 * Open a pull request with improvements
 * Discuss ideas in issues
 * Spread the word
-* Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/ziishaned.svg?style=social&label=Follow%20%40ziishaned)](https://twitter.com/ziishaned)
-
+* Reach out with any feedback [![Twitter URL]]
 ## License
 
-MIT &copy; [Zeeshan Ahmad](https://twitter.com/ziishaned)
+MIT 
+
+
+[def]: ttps://gum.co/learn-rege
